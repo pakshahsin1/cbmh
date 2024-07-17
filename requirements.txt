@@ -1,4 +1,4 @@
 nltk
-numpy==1.21.6
+numpy>=1.23.5,<2.0.0
 tensorflow==2.15.0
 keras==2.4.3
